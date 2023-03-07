@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @madhur-kumar-singh
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Android Studio with JAVA
-- 💞️ I’m looking to collaborate on App development Projects
+- 👀 I’m interested in Web Development, Cloud. 
 - 📫 How to reach me madhursingh04072@gmail.com
 
 <!---
